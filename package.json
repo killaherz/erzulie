@@ -1,0 +1,22 @@
+{
+  "name": "erzulie",
+  "version": "0.0.1",
+  "description": "fullstack js example project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/killaherz/erzulie.git"
+  },
+  "author": "Artem Vasiliev",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/killaherz/erzulie/issues"
+  },
+  "homepage": "https://github.com/killaherz/erzulie#readme",
+  "dependencies": {
+    "eslinter": "^3.2.1"
+  }
+}
