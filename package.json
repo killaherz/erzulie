@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/killaherz/erzulie#readme",
   "dependencies": {
-    "eslinter": "^3.2.1"
+    "eslinter": "^3.2.1",
+    "webpack": "^1.13.3",
+    "yarn": "^0.16.1"
   }
 }
