@@ -19,7 +19,6 @@
   "dependencies": {
     "eslinter": "^3.2.1",
     "pm2": "^2.0.19",
-    "webpack": "^1.13.3",
-    "yarn": "^0.16.1"
+    "webpack": "^1.13.3"
   }
 }
