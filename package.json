@@ -19,6 +19,8 @@
   "dependencies": {
     "eslinter": "^3.2.1",
     "pm2": "^2.0.19",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
     "webpack": "^1.13.3"
   }
 }
